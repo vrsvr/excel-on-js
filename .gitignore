@@ -1,3 +1,7 @@
-.idea
-node_modules
-dist
+/.idea/
+/node_modules/
+/.git/
+/dist/
+/**/Thumbs.db
+/**/*.DS_Store
+/**/package-lock.json
