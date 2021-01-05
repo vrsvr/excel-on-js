@@ -14,5 +14,6 @@ module.exports = {
   "extends": ["eslint:recommended", "google"],
   "parserOptions": {
       "sourceType": "module"
-  }
+  },
+  "parser": "babel-eslint"
 };
