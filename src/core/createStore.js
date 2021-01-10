@@ -20,4 +20,3 @@ export function createStore(rootReducer, initialState = {}) {
     }
   }
 }
-
